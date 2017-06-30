@@ -16,4 +16,4 @@ Sepal Width vs. Sepal Length
 
 ---
 
-Link to DataSet : https://www.kaggle.com/uciml/iris/downloads/iris-release-2016-01-12-01-48-31.zip
+Link to DataSet : https://www.kaggle.com/uciml/iris
